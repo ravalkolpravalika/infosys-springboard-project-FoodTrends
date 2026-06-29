@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Images/infosys_springboard_logo.png" alt="Infosys Springboard" width="100%"/>
+  <img src="Images/infosys_springboard_logo.png" alt="Infosys Springboard" width="400"/>
 </p>
 
 <h1 align="center">🍽️ FoodTrends – Understanding Customer Preferences in F&B</h1>
