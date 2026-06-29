@@ -147,55 +147,55 @@ The Power BI semantic model integrates structured and unstructured customer feed
 
 ## Structured Data
 
-*(Add Screenshot)*
+![Structured Data](Images/structured_data.png)
 
 ---
 
 ## Unstructured Data
 
-*(Add Screenshot)*
+![Unstructured Data](Images/unstructured_data.png)
 
 ---
 
 ## NLP Script
 
-*(Add Screenshot)*
+![NLP Script](Images/nlp_script.png)
 
 ---
 
 ## Dataset with Sentiment Score
 
-*(Add Screenshot)*
+![Dataset with Sentiment Score](Images/sentiment_dataset.png)
 
 ---
 
 ## Semantic Model
 
-*(Add Screenshot)*
+![Semantic Model](semantic_model.png)
 
 ---
 
 ## Dashboard 1 – Sentiment Analysis
 
-*(Add Screenshot)*
+![Sentiment Analysis](Images/sentiment_dashboard.png)
 
 ---
 
 ## Dashboard 2 – Product Insights
 
-*(Add Screenshot)*
+![Product Insights](Images/product_dashboard.png)
 
 ---
 
 ## Dashboard 3 – Customer Segmentation
 
-*(Add Screenshot)*
+![Customer Segmentation](Images/customer_segmentation.png)
 
 ---
 
 ## Dashboard 4 – Strategy & Innovation
 
-*(Add Screenshot)*
+![Strategy & Innovation](Images/Strategy_innovation.png)
 
 ---
 
