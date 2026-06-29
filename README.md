@@ -102,44 +102,64 @@ Each customer review is assigned:
 
 ## 1️⃣ Sentiment Analysis Dashboard
 
-- Overall sentiment distribution
-- Positive vs Negative trends
-- Product-wise sentiment
-- Region-wise analysis
+This dashboard provides an overview of customer sentiment and feedback patterns across products and regions.
+
+### Key Insights
+
+* Displays the overall distribution of **Positive, Neutral, and Negative** customer feedback.
+* Identifies the **top products** receiving the highest customer sentiment.
+* Highlights **region-wise sentiment** to understand geographical customer satisfaction.
+* Analyzes **aspect-wise sentiment** across food quality, price, delivery, packaging, ambience, and staff.
+* Identifies the **most frequently used keywords** from customer reviews to reveal common discussion topics.
 
 ---
 
 ## 2️⃣ Product Insights Dashboard
 
-- Product ratings
-- Taste analysis
-- Price analysis
-- Packaging analysis
-- Product comparison
+This dashboard evaluates product performance and customer preferences using ratings and sentiment analysis.
+
+### Key Insights
+
+* Shows the **most preferred favorite food items** based on customer responses.
+* Compares **product categories by average customer ratings**.
+* Analyzes the **distribution of products across different price categories**.
+* Examines the **relationship between sentiment score and feedback ratings**.
+* Compares products based on **taste, food quality, packaging quality, and overall customer feedback**.
 
 ---
 
 ## 3️⃣ Customer Segmentation Dashboard
 
-- Customer Personas
-- Age Group Analysis
-- Purchase Channel Analysis
-- Region Analysis
+This dashboard groups customers based on demographics, purchasing behavior, and sentiment.
+
+### Key Insights
+
+* Segments customers into **Loyal Fans, Silent Users, and Critics**.
+* Visualizes **sentiment-based customer clustering**.
+* Analyzes **food preferences across different age groups**.
+* Compares **feedback ratings with sentiment distribution**.
+* Enables customer analysis using **city, age group, and purchasing channel filters**.
 
 ---
 
 ## 4️⃣ Strategy & Innovation Dashboard
 
-- Keyword Analysis
-- Emerging Trends
-- Product Improvement Opportunities
-- Business Recommendations
+This dashboard provides business recommendations by combining customer preferences, purchasing behavior, and feedback trends.
+
+### Key Insights
+
+* Identifies the **top factors influencing customer purchase decisions**.
+* Highlights **trending keywords** extracted from customer feedback.
+* Analyzes **customer preferences based on nutritional claims**.
+* Examines the **impact of calories and price on customer sentiment**.
+* Provides **AI-driven strategy recommendations** to support product improvement and marketing decisions.
 
 ---
 
+
 # 🗂️ Semantic Model
 
-The Power BI semantic model integrates structured and unstructured customer feedback into a centralized **Feedback Table** connected with **Customer**, **Product**, and **Date** dimension tables. This enables efficient cross-filtering, sentiment analysis, and dashboard reporting.
+The Power BI semantic model integrates structured and unstructured customer feedback into a centralized **Feedback_Table**, which is connected to **Customer**, **Product**, and **Date** dimension tables. This model enables efficient filtering, relationship management, sentiment analysis, and interactive dashboard reporting.
 
 ---
 
@@ -171,7 +191,7 @@ The Power BI semantic model integrates structured and unstructured customer feed
 
 ## Semantic Model
 
-![Semantic Model](semantic_model.png)
+![Semantic Model](Images/semantic_model.png)
 
 ---
 
@@ -206,29 +226,6 @@ The Power BI semantic model integrates structured and unstructured customer feed
 - Regional customer preferences.
 - Customer segmentation based on behavior.
 - Business recommendations for product innovation.
-
----
-
-# 🚀 Future Enhancements
-
-- Real-time review analysis
-- Advanced NLP models (BERT)
-- Predictive customer sentiment
-- Live social media integration
-- AI-powered recommendation system
-
----
-
-# 👩‍💻 Author
-
-**Pravalika Ravalkol**
-
-- MSc Computer Science
-- Osmania University
-
-**GitHub:** *(Add Link)*
-
-**LinkedIn:** *(Add Link)*
 
 ---
 
