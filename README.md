@@ -5,6 +5,19 @@
 <h1 align="center">🍽️ FoodTrends – Understanding Customer Preferences in F&B</h1>
 
 <p align="center">
+  <b>Infosys Springboard Virtual Internship 6.0 Project</b><br>
+  Customer Sentiment Analysis & Interactive Power BI Dashboard
+</p>
+
+---
+
+<p align="center">
+  <img src="images/infosys_springboard_logo.png" alt="Infosys Springboard" width="350"/>
+</p>
+
+<h1 align="center">🍽️ FoodTrends – Understanding Customer Preferences in F&B</h1>
+
+<p align="center">
 <b>Infosys Springboard Virtual Internship 6.0</b><br>
 Data Analytics | NLP | Power BI | Customer Sentiment Analysis
 </p>
